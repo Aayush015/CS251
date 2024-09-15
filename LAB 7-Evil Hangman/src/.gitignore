@@ -1,0 +1,12 @@
+.idea
+out
+EvilHangman.class
+FairHangman.class
+Hangman.class
+HangmanGUI$1.class
+HangmanGUI$GamePanel$1.class
+HangmanGUI$GamePanel.class
+HangmanGUI$StickFigurePanel.class
+HangmanGUI.class
+HangmanInterface.class
+LAB 7-Evil Hangman.iml
