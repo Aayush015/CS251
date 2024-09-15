@@ -1,3 +1,14 @@
-out
+# Project exclude paths
+/out/
 .idea
+CalcTest.class
+DoubleStack.class
+Operator.class
 Postfix Calculator.iml
+PostfixCalculator$Division.class
+PostfixCalculator$Addition.class
+PostfixCalculator$Multiplication.class
+PostfixCalculator$Print.class
+PostfixCalculator$Subtraction.class
+PostfixCalculator.class
+Stack.class
