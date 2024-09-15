@@ -1,6 +1,6 @@
 # Gomoku Game
 
-<div style="display: flex;"> <img src="pictures/ring-wins.png" alt="Ring Wins" style="width: 45%; margin-right: 10px;" /> <img src="pictures/cross-wins.png" alt="Cross Wins" style="width: 45%;" /> </div>
+<div style="display: flex;"> <img src="src/pictures/ring-wins.png" alt="Ring Wins" style="width: 45%; margin-right: 10px;" /> <img src="src/pictures/cross-wins.png" alt="Cross Wins" style="width: 45%;" /> </div>
 
 
 **Author:** Aayush Kafle  
